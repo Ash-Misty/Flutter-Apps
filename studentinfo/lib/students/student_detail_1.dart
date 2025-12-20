@@ -135,6 +135,8 @@ class StudentDetail1 extends StatelessWidget {
             ),
           ],
         ),
+        
+        
       ),
     );
   }
