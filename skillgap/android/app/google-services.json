@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400664748046",
+    "project_id": "skill-gap-548d2",
+    "storage_bucket": "skill-gap-548d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400664748046:android:f49d03bf58dec3dfca1c5f",
+        "android_client_info": {
+          "package_name": "com.example.skillgap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400664748046-7aon7hh84mchksd21ru57654erv3fsns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skillgap",
+            "certificate_hash": "a6cb657478c2765796e4d1ebebd5015cee65d665"
+          }
+        },
+        {
+          "client_id": "400664748046-0ao3d00fomjcflcupgb8dfcr9tcvue08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ok7IokVqhV3Dr0wTuDDHVB07A_mjKcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400664748046-0ao3d00fomjcflcupgb8dfcr9tcvue08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
